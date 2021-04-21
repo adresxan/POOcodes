@@ -4,8 +4,6 @@ public class Limites{
   private static int a;
   private static int b;
   private static int c;
-  private static int impar;
-  private static int par;
 
   public static void main(String[] args){
     Scanner in = new Scanner(System.in);
